@@ -2,7 +2,7 @@ This project includes two complete versions of the Expense Tracker: a graphical 
 Both versions are fully functional and use the same data storage format (expenses.json), allowing you to switch between them seamlessly.
 
 
-🖥️ GUI Version (main.py)
+🖥️ GUI Version (gui.py)
 
 A user-friendly desktop application built with Python's tkinter library. Ideal for users who prefer visual interfaces with buttons, forms, and output display areas.
 
@@ -17,7 +17,7 @@ All data stored in expenses.json with structured formatting.
 Form validation and error handling.
 
 
-💻 Console Version (console-version.py)
+💻 Console Version (main.py)
 
 A terminal-based version for users who prefer or require a command-line interface. Lightweight and fully interactive through text prompts.
 
