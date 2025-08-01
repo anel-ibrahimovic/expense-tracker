@@ -17,7 +17,7 @@ All data stored in expenses.json with structured formatting.
 Form validation and error handling.
 
 
-💻 Console Version (main.py)
+💻 CLI Version (main.py)
 
 A terminal-based version for users who prefer or require a command-line interface. Lightweight and fully interactive through text prompts.
 
